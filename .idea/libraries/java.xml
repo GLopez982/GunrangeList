@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-10.1.31-windows-x64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/build/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/demo/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/generated/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/legacy/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/main/core-api/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/main/core-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/main/protocol-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/main/user-api/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/main/user-impl/java" />
+      <root url="file://$PROJECT_DIR$/../../mysql-connector-j-8.3.0/mysql-connector-j-8.3.0/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../apache-maven-3.9.9/apache-maven/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-10.1.31-windows-x64/apache-tomcat-10.1.31/webapps/docs/appdev/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-10.1.31-windows-x64/apache-tomcat-10.1.31/webapps/examples/WEB-INF/classes" />
+    </SOURCES>
+  </library>
+</component>
